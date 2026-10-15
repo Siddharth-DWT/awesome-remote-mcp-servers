@@ -3165,6 +3165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MemeStack](https://memestack.ai/mcp-server) `https://mcp.memestack.ai/mcp`
   [![MemeStack MCP connector](https://glama.ai/mcp/connectors/ai.memestack/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memestack/mcp)
   🔓 - Search memes, charts, infographics and screenshots by meaning, in-image text or similarity; paid tools use x402/L402.
+- [MeshArc web crawler](https://mesharc.dev) `https://mcp.mesharc.dev/mcp`
+  [![MeshArc web crawler MCP connector](https://glama.ai/mcp/connectors/dev.mesharc/mesharc/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mesharc/mesharc)
+  🔐 - Search, scrape and crawl sites to clean markdown, and track what changed between crawls.
 - [NanoParse](https://nanoparse.app) `https://nanoparse.app/mcp`
   [![NanoParse MCP connector](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp)
   🔓 - Read any web page as clean Markdown plus 15 trust signals; $0.005 per page in USDC on Base via x402, 10 free.
